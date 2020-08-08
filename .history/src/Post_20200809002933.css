@@ -1,0 +1,9 @@
+.post {
+  display: flex;
+  align-items: flex-start;
+}
+
+.post__body > img {
+  border-radius: 20px;
+  width: 100%;
+}

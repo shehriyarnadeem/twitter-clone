@@ -1,0 +1,23 @@
+.widgets {
+  flex: 0.3;
+  background-color: var(--twitter-background);
+}
+
+.widgets__input {
+  display: flex;
+  align-items: center;
+  background-color: var(--twitter-background);
+  padding: 10px;
+  border-radius: 20px;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+.widgets__widgetContainer {
+  margin-top: 10px;
+
+  border-radius: 10px solid var(--twitter-background);
+  margin-left: 10px;
+  padding: 10px;
+  overflow-y: scroll;
+}

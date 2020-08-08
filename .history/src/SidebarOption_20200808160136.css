@@ -1,0 +1,13 @@
+.sidebarOption {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.sidebarOption:hover {
+  background-color: #e8f5fe;
+}
+
+.sidebarOption > .MuiSvgIcon-root {
+  padding: 20px;
+}
